@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Цыренова](https://up.htmlacademy.ru/javascript/19/user/267369).
-* Наставник: `Неизвестно`.
+* Наставник: [Руфат Хасларов] (https://htmlacademy.ru/profile/id372587).
 
 ---
 
