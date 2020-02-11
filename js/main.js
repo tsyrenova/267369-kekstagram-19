@@ -69,5 +69,3 @@ var renderPictures = function () {
 };
 
 renderPictures();
-
-console.log(pictures);
