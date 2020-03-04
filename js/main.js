@@ -56,7 +56,7 @@ function getMessages(countMessages) {
 }
 
 var pictures = getMessages(COUNT_OBJECT);
-var bigPicture = document.querySelector('.big-picture');
+// var bigPicture = document.querySelector('.big-picture');
 var imgBigPicture = document.querySelector('.big-picture__img img');
 var likesCount = document.querySelector('.likes-count');
 var commentsCount = document.querySelector('.comments-count');
@@ -120,7 +120,7 @@ function addComment() {
   socialComments.appendChild(commentElement);
 }
 
-// createBigPicture(pictures[0]);
+createBigPicture(pictures[0]);
 
 function onUploadOverlayChange() {
   uploadOverlay.classList.remove('hidden');
